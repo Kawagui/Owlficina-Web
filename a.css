@@ -1,0 +1,47 @@
+<style>
+        *{
+            font-family: 'Times New Roman';
+        }
+        body{
+            margin-left: 425px;
+            margin-right: 425px;
+            background-color:lavender;
+        }
+        section{
+            background-color: whitesmoke;
+            padding: 70px;
+            margin: auto;
+        }
+        h1{
+            margin-bottom: 0px;
+            font-weight: 500;
+            color: blue;
+        }
+        h2{
+            margin-top: 3px;
+            text-align: center;
+            font-weight: 500;
+            color: tomato;
+        }
+        h4{
+            margin-bottom: 0px;
+        }
+        p{
+            margin: 0px;
+        }
+        #menor{
+            width: 500px;
+        }
+        #q{
+            text-align: left;
+        }
+        #cont ul{
+                list-style-type: none;
+                text-align: right;
+            }
+        .dir{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    </style>
