@@ -1,0 +1,18 @@
+*{
+            font-family: 'Times New Roman';
+        }
+        body{
+            margin-left: 425px;
+            margin-right: 425px;
+            background-color:lavender;
+        }
+        h1{
+            margin-bottom: 10px;
+            text-align: center;
+            margin-bottom: 0px;
+            font-weight: 500;
+            color: blue;
+        }
+        #keyboard{
+            
+        }
