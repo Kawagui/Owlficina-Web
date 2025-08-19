@@ -70,3 +70,7 @@ Projeto - NotLetroso
   Recriar jogo letroso
 
   Funcionalidades a serem implementadas:
+    colocar mais palavras pra descobrir;
+    focus;
+    melhorar interface;
+    implementar o teclado virtual ao código;
