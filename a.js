@@ -30,4 +30,8 @@ function a() { // vetor de inputs
     console.log(inputs);
 }
 
+function ler(){
+    let tex=document.getElementById("").value;
+    let vet=tex.split('');
+}
 //} 
