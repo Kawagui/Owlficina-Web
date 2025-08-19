@@ -30,6 +30,8 @@ Aula 1 - HTML & CSS
       Modificações - modificar a referência 
         chave: valor unidade;
 
+  Atividades - recriar um portfólio fictício + base visual do letroso
+  
 Aula 2 - JavaScript
 
   consulta: https://javascript.info/
@@ -60,3 +62,11 @@ Aula 2 - JavaScript
   Eventos e Ouvintes
     Eventos - ações que ocorrem no navegador
     Ouvintes - funções sempre ativas a espera de um evento para executar uma ação
+
+  Atividade incorporar JavaScript no projeto
+
+Projeto - NotLetroso
+
+  Recriar jogo letroso
+
+  Funcionalidades a serem implementadas:
