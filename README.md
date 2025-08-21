@@ -70,6 +70,7 @@ Projeto - NotLetroso
   Recriar jogo letroso
 
   Coisas ainda a serem implementadas/feitas:
+  
     melhorar/refazer algoritmo de verificação de tentativa;
     colocar palavras reais para descobrir;
     verificar se é uma palavra válida;
