@@ -67,7 +67,9 @@ Aula 2 - JavaScript
 
 Projeto - NotLetroso
 
-  Recriar jogo letroso
+  Recriar jogo letroso(https://letroso.com/pt) - adivinhar qual é a palavra secreta que pode ter até 10 caracteres em infinitas tentativas.
+
+  Disclaimer!: Ainda não está minimamente completo para uma boa experiência.
 
   Coisas ainda a serem implementadas/feitas:
   
@@ -82,4 +84,4 @@ Projeto - NotLetroso
       pop-up quando ganhar + e quantidade de tentativas;
     implementar/incorporar o teclado virtual ao código;
     fazer uma versão dueto??;
-    estilizar esse README;
+    estilizar README e tornar conteúdo mais legível;
