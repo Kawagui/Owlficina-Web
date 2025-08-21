@@ -1,25 +1,25 @@
-# Owlficina-Web
+# Owlficina-Web 2025
 
 Aula 1 - HTML & CSS
   HTML
     Tags:
-      <p> </p> cria parágrafo
-      <h1> </h1> título de maior destaque
-      <strong> </strong> negrito
-      <i> </i> itálico
-      <button> </button> cria botão
-      <a> </a> cria um link(interno ou externo)
-      <div> </div> cria um quadrado/board
-        
+      "<p> </p>" cria parágrafo
+      "<h1> </h1>" título de maior destaque
+      "<strong> </strong>" negrito
+      "<i> </i>" itálico
+      "<button> </button>" cria botão
+      "<a> </a>" cria um link(interno ou externo)
+      "<div> </div>" cria um quadrado/board
     Class para grupos de elementos
     ID para elemento único
   
   CSS
     Referências - referenciar a parte do HTML
+     
       Tag
         p
         div
-  
+        
       Class e ID
         #btn
         .ddl
@@ -30,13 +30,13 @@ Aula 1 - HTML & CSS
       Modificações - modificar a referência 
         chave: valor unidade;
 
-  Atividades - recriar um portfólio fictício + base visual do letroso
+  Atividades - recriar um portfólio fictício (a.html e a.css) + base visual do letroso (NotLetroso.html e NL.css)
   
 Aula 2 - JavaScript
 
   consulta: https://javascript.info/
   
-  <script> </script>: incorporar código ou fazer referência ao arquivo. js
+  "<script> </script>" incorporar código ou fazer referência ao arquivo .js
   
   Tipos de dados:
     number
@@ -63,14 +63,22 @@ Aula 2 - JavaScript
     Eventos - ações que ocorrem no navegador
     Ouvintes - funções sempre ativas a espera de um evento para executar uma ação
 
-  Atividade incorporar JavaScript no projeto
+  Atividade incorporar JavaScript no projeto (NL.js)
 
 Projeto - NotLetroso
 
   Recriar jogo letroso
 
-  Funcionalidades a serem implementadas:
-    colocar mais palavras pra descobrir;
-    focus;
-    melhorar interface;
-    implementar o teclado virtual ao código;
+  Coisas ainda a serem implementadas/feitas:
+    melhorar/refazer algoritmo de verificação de tentativa;
+    colocar palavras reais para descobrir;
+    verificar se é uma palavra válida;
+    focus no input da próxima tentativa;
+    melhorar interface + acessibilidade;
+      cores;
+      barra de rolagem para tentativas;
+      sobrepor tentativa com a apuração;
+      pop-up quando ganhar + e quantidade de tentativas;
+    implementar/incorporar o teclado virtual ao código;
+    fazer uma versão dueto??;
+    estilizar esse README;
